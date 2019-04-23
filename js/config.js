@@ -1,0 +1,34 @@
+window.configData = {
+		"sdkappid":"1400204877",
+	"users":[
+	{"userId":"Web_trtc_01","userToken":"eJxlj11PgzAARd-5FaSvM9IChWHiw7C6AVtkUyJvTYVSGyNltOwjxv9uRKMk3tdzcm-uu2XbNnhcP1yyqlJDa6g5dxzYVzaA4OIPdp2sKTPU6*t-kJ862XPKGsP7ESKMsQvh1JE1b41s5I-xxJ*p6U1FIZpIun6l49J3iw*hC-15GE4VKUa4uS1uki0xZXrMnbhcit1aD-7dKj8EC8WC5b4owvQ8OPuZUgRnqTkmghPmzsoy2axOL1GTFYuAaEZExh19n**icDuIlDhxHqPkejJp5Bv-vRVFwRx5E3rgvZaqHQUXIoxcD34FWB-WJzZxXfg_"},
+	{"userId":"Web_trtc_02","userToken":"eJxlj1FPgzAYRd-5FU1fZ1wpdIDJHiYqorI43YLbS4P0Y3QIw65sOON-N6JREu-rObk3991ACOH53eNpkqbbptJcv9WA0RnCBJ-8wbqWgieaW0r8g9DWUgFPMg2qgyZjjBLSd6SASstM-hgxPHOtdMoJ7Uk7UfBu6bvFJoQS23WcviLXHYwuZ34YtJPgNbEf2itwfGd42CzLa0bZYBbZx*lcXGzChS2Kl8JbxBN5PsgLPxwuj81*HWTNqHoCK7-xV2kcQWhm97ee2-h56XrR6jAe9ya1LOH3lueNXNPq0T2ondxWnUCJyUxqka9g48P4BD7DXlo_"},
+	{"userId":"Web_trtc_03","userToken":"eJxlj0tPg0AUhff8CsIWo8PACOOuqa9BJy2tpNHNhMfUDiAg3GKL8b8b0egk3u335Zxz3w3TNK2H*-VpkmXNvgYBx1Za5oVpIevkD7atykUCwu3yf1AeWtVJkWxBdhN0CCEYId1RuaxBbdWPsZGpgA4ygVxN6vNSTE3fKR5CGHmB7*uKep4gv3qcs*iyGp2AqaPH3dTDZ*zW3lQ*X7FyAUnI*yK9WQ5JCa*LNYnYbna3X0FzTVVb0ag8FA2PbWaTGd2FyyEu36KQzouRx-n4hLVKUC-y9y1KzwNH3zzIrldNPQkYOcTBLvo6y-gwPgGKpl8r"},
+	{"userId":"Web_trtc_04","userToken":"eJxlj1FPgzAYRd-5FYTXGW2BDmqyh7mwjWya4JjLnhoGHXxxK6V0iBj-u5EZJfG*npN7cz8M0zSteL25TdK0vAjN9LvklnlvWsi6*YNSQsYSzRyV-YO8laA4S46aqx5iQoiN0NCBjAsNR-gxdvzAtNIpQ*5AqrNX1i9dW1yEbOT6njdUIO-hYxDNwmAZJLsChFh5L6VPxrrK6lEV151HDngdx-TUCLddSBztp-DwtJ03b4uii54v07scknOX0tGscgpchqulECo8UbfV*-k2n0wGkxrO-PcWpWMfOwPacFVDKXrBRphg20HfsYxP4wvd0F*s"}
+	]	,
+	"roles":[
+	{"name":"user","value":"640x368"},
+	{"name":"wp640","value":"640x480"},
+	{"name":"wp1280","value":"1280x720"},
+	{"name":"wp320","value":"320x240"},
+	{"name":"test320","value":"320x240"},
+	{"name":"test640","value":"640x480"},
+	{"name":"test1280","value":"1280x720"},
+	{"name":"test480","value":"480x360"},
+	{"name":"test960","value":"960x540"},
+	{"name":"test368","value":"640x368"},
+	{"name":"ed320","value":"320x240"},
+	{"name":"ed640","value":"640x480"},
+	{"name":"ed1280","value":"1280x720"},
+	{"name":"1280","value":"1280x720"},
+	{"name":"wxhspeed","value":"640x368"},
+	{"name":"lsspeed","value":"640x368"},
+	{"name":"lsspeedpc","value":"640x368"},
+	{"name":"wawaji","value":"864x480"},
+	{"name":"test1920","value":"1920x1080"},
+	{"name":"test2560","value":"640x368"},
+	{"name":"miniwhite","value":"640x368"},
+	{"name":"ed960","value":"960x540"},
+	{"name":"ed480","value":"640x368"}
+	]
+};
